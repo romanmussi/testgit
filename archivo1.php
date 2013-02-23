@@ -2,6 +2,6 @@
 
 echo "Hola!!";
 
-echo "Modificacion en eee linux";
+echo "Nuevo texto agregado desde eee w7.";
 
 ?>
